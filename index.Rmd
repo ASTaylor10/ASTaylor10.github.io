@@ -1,0 +1,38 @@
+---
+title: "Website"
+author: "Andrew Taylor"
+date: "1/18/2022"
+output: html_document
+---
+
+#
+#Andrew Taylor
+#
+###Location: Dallas, TX
+###Interests: Data Science, Technology, Video Games, Bowling
+###Work: Raytheon Tecnologies
+###Education: BS - Electrical Engineering from Texas A&M University
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+###The other tabs represent completed analyses.  Please check them out!

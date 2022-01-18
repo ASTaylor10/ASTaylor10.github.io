@@ -1,0 +1,8 @@
+name: "website"
+navbar:
+  title: "MSDS Projects Website"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Beer Study"
+      href: Beer-Study.html
