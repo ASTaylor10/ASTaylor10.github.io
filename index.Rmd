@@ -6,14 +6,12 @@ output: html_document
 ---
 
 #
-#Andrew Taylor
+# Andrew Taylor
 #
-###Location: Dallas, TX
-###Interests: Data Science, Technology, Video Games, Bowling
-###Work: Raytheon Tecnologies
-###Education: BS - Electrical Engineering from Texas A&M University
-#
-#
+### Location: Dallas, TX
+### Interests: Data Science, Technology, Video Games, Bowling
+### Work: Raytheon Tecnologies
+### Education: BS - Electrical Engineering from Texas A&M University
 #
 #
 #
@@ -35,4 +33,6 @@ output: html_document
 #
 #
 #
-###The other tabs represent completed analyses.  Please check them out!
+#
+#
+### The other tabs represent completed analyses.  Please check them out!
