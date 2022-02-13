@@ -6,5 +6,5 @@ navbar:
       href: index.html
     - text: "Beer Study"
       href: Beer-Study.html
-      - text: "CaseStudy2DS"
+    - text: "CaseStudy2DS"
       href: CaseStudy2DDS_AndrewTaylor.html
