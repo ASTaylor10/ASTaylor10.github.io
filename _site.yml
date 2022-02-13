@@ -1,4 +1,4 @@
-name: "website"
+name: "About Me"
 navbar:
   title: "MSDS Projects Website"
   left:
@@ -6,3 +6,5 @@ navbar:
       href: index.html
     - text: "Beer Study"
       href: Beer-Study.html
+      - text: "CaseStudy2DS"
+      href: CaseStudy2DDS_AndrewTaylor.html
